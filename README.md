@@ -37,7 +37,7 @@ View
 
 (Visit)
 
-[Domain Model] (https://github.com/robertwoolley99/bookmark_manager/tree/master/images/Domain_Model.png?raw=true)
+[Domain Model](https://github.com/robertwoolley99/bookmark_manager/tree/master/images/Domain_Model.png?raw=true)
 
 
 
