@@ -13,4 +13,9 @@ require_relative 'controllers/users'
 require_relative 'controllers/sessions'
 require_relative '../lib/send_recover_link.rb'
 
+class BookmarkManager < Sinatra::Base
 
+  get '/' do
+
+  end
+end
